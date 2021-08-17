@@ -1,2 +1,3 @@
-# intro2ds_final_project
-A final project of CSC14119 HCMUS. We build a Codeforces problems recommend system
+# Collaborators
+* `18127039` Lam Ngoc Phuong Anh
+* `1812721`: Nguyen Cong Anh Khoa
